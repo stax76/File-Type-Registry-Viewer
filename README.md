@@ -4,7 +4,7 @@
 File Type Registry Viewer shows registry keys related to a defined file type.
 
 
-# Screeshots
+# Screeshot
 
 ![Screenshot](Screenshot.webp)
 
